@@ -72,7 +72,7 @@ const SCENE_LAYOUT = {
   // },
   fighterJet: {
     position: { x: -1.25, y: 0.52, z: -0.24 },
-    rotation: { x: 0, y: 0, z: -4 },
+    rotation: { x: 0, y: -90, z: -4 },
     scale: 1,
     flight: {
       startX: -1.25,
