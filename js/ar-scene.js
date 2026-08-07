@@ -71,7 +71,7 @@ const SCENE_LAYOUT = {
   //   scale: 0.92
   // },
   fighterJet: {
-    position: { x: -1.25, y: 1, z: -0.24 },
+    position: { x: -1.25, y: 1.2, z: -0.24 },
     rotation: { x: 0, y: -180, z: -90 },
     scale: 1,
     flight: {
@@ -90,7 +90,7 @@ const SCENE_LAYOUT = {
   jetSmoke: {
     position: { x: 0, y: 0.1, z: 0 },
     rotation: { x: 0, y: 0, z: 0 },
-    scale: 1
+    scale: 0.8
   },
   particles: {
     position: { x: 0, y: 0, z: 0 },
