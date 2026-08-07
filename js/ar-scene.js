@@ -90,7 +90,7 @@ const SCENE_LAYOUT = {
   jetSmoke: {
     position: { x: 0, y: 0.1, z: 0 },
     rotation: { x: 0, y: 0, z: 0 },
-    scale: 1
+    scale: 0.8
   },
   particles: {
     position: { x: 0, y: 0, z: 0 },
